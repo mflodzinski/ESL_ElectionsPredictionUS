@@ -1,2 +1,2 @@
-Census_Decennial_2000_w_Hispanic/DECENNIALDPSF42000.DP1-Data.csv filter=lfs diff=lfs merge=lfs -text
+race_*.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
